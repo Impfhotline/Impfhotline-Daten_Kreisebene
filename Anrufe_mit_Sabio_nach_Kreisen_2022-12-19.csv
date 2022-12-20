@@ -1,0 +1,163 @@
+Datum;anrufquelle;kreis;anz_anrufe;anrufe_m_sabio;Thema_test;Thema_reise;Thema_impf;Thema_quarantaene;Thema_bundesland;Thema_app;Thema_inzidenz
+19/12/2022;FN_kgs-;;1;1;0;0;0;1;0;0;0
+19/12/2022;FN_kgs-01002;Kiel, Landeshauptstadt;3;1;0;0;0;1;0;0;0
+19/12/2022;FN_kgs-01055;Ostholstein;2;1;0;0;0;1;0;0;0
+19/12/2022;FN_kgs-01058;Rendsburg-Eckernförde;2;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-01059;Schleswig-Flensburg;2;1;0;0;0;1;0;0;0
+19/12/2022;FN_kgs-01060;Segeberg;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-01061;Steinburg;2;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-01062;Stormarn;3;1;1;0;0;1;0;1;0
+19/12/2022;FN_kgs-02000;Hamburg, Freie und Hansestadt;46;27;11;0;12;22;11;4;0
+19/12/2022;FN_kgs-03151;Gifhorn;2;2;1;0;1;1;1;0;0
+19/12/2022;FN_kgs-03155;Northeim;1;1;0;0;0;1;0;0;0
+19/12/2022;FN_kgs-03158;Wolfenbüttel;1;1;1;0;0;1;0;1;0
+19/12/2022;FN_kgs-03241;Region Hannover;14;6;1;0;3;2;2;0;0
+19/12/2022;FN_kgs-03254;Hildesheim;2;2;0;0;0;1;1;0;0
+19/12/2022;FN_kgs-03255;Holzminden;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-03256;Nienburg (Weser);2;1;0;0;0;1;0;0;0
+19/12/2022;FN_kgs-03351;Celle;2;2;0;0;0;1;1;0;0
+19/12/2022;FN_kgs-03355;Lüneburg;4;1;0;0;1;1;1;0;0
+19/12/2022;FN_kgs-03357;Rotenburg (Wümme);1;1;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-03358;Soltau-Fallingbostel;2;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-03359;Stade;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-03361;Verden;2;1;0;0;0;1;0;0;0
+19/12/2022;FN_kgs-03405;Wilhelmshaven, Stadt;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-03454;Emsland;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-03457;Leer;4;1;0;0;1;1;1;0;0
+19/12/2022;FN_kgs-03458;Oldenburg;4;2;0;0;0;1;0;0;0
+19/12/2022;FN_kgs-03462;Wittmund;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-04011;Bremen, Stadt;8;4;0;0;0;4;0;0;0
+19/12/2022;FN_kgs-05117;Mülheim an der Ruhr, Stadt;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-05124;Wuppertal, Stadt;2;1;0;0;0;1;0;0;0
+19/12/2022;FN_kgs-05158;Mettmann;7;3;0;0;3;1;2;0;0
+19/12/2022;FN_kgs-05162;Rhein-Kreis Neuss;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-05166;Viersen;3;2;0;0;0;2;0;0;0
+19/12/2022;FN_kgs-05170;Wesel;4;2;0;0;0;2;0;0;0
+19/12/2022;FN_kgs-05314;Bonn, Stadt;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-05354;Aachen;2;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-05358;Düren;1;1;0;0;0;1;0;0;0
+19/12/2022;FN_kgs-05370;Heinsberg;2;1;0;0;0;1;0;0;0
+19/12/2022;FN_kgs-05374;Oberbergischer Kreis;2;2;0;0;0;1;1;0;0
+19/12/2022;FN_kgs-05378;Rheinisch-Bergischer Kreis;5;2;0;0;1;2;1;0;0
+19/12/2022;FN_kgs-05382;Rhein-Sieg-Kreis;8;3;1;0;1;2;2;1;0
+19/12/2022;FN_kgs-05512;Bottrop, Stadt;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-05515;Münster, Stadt;2;1;0;0;0;1;0;0;0
+19/12/2022;FN_kgs-05554;Borken;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-05558;Coesfeld;1;1;0;0;1;1;1;0;0
+19/12/2022;FN_kgs-05562;Recklinghausen;5;3;1;0;2;0;1;1;0
+19/12/2022;FN_kgs-05566;Steinfurt;9;2;1;0;0;1;0;0;0
+19/12/2022;FN_kgs-05570;Warendorf;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-05711;Bielefeld, Stadt;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-05754;Gütersloh;3;1;0;0;0;1;0;0;0
+19/12/2022;FN_kgs-05766;Lippe;1;1;0;0;0;1;0;0;0
+19/12/2022;FN_kgs-05770;Minden-Lübbecke;2;2;0;0;0;1;0;0;0
+19/12/2022;FN_kgs-05774;Paderborn;2;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-05916;Herne, Stadt;8;2;2;0;1;1;0;0;0
+19/12/2022;FN_kgs-05954;Ennepe-Ruhr-Kreis;1;1;1;0;0;1;0;0;0
+19/12/2022;FN_kgs-05962;Märkischer Kreis;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-05978;Unna;9;7;3;0;2;4;3;2;0
+19/12/2022;FN_kgs-06412;Frankfurt am Main, Stadt;2;2;0;0;0;2;1;0;0
+19/12/2022;FN_kgs-06432;Darmstadt-Dieburg;3;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-06433;Groß-Gerau;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-06436;Main-Taunus-Kreis;3;2;0;0;0;2;0;0;0
+19/12/2022;FN_kgs-06437;Odenwaldkreis;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-06438;Offenbach;1;1;0;0;1;0;1;0;0
+19/12/2022;FN_kgs-06439;Rheingau-Taunus-Kreis;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-06440;Wetteraukreis;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-06531;Gießen;2;2;1;0;1;2;0;0;0
+19/12/2022;FN_kgs-06532;Lahn-Dill-Kreis;2;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-06533;Limburg-Weilburg;2;1;0;0;1;1;1;0;0
+19/12/2022;FN_kgs-06535;Vogelsbergkreis;2;1;1;0;1;0;1;0;0
+19/12/2022;FN_kgs-06631;Fulda;1;1;0;0;1;1;0;0;0
+19/12/2022;FN_kgs-06632;Hersfeld-Rotenburg;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-06633;Kassel;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-06635;Waldeck-Frankenberg;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-07131;Ahrweiler;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-07135;Cochem-Zell;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-07137;Mayen-Koblenz;1;1;0;0;0;1;0;0;0
+19/12/2022;FN_kgs-07143;Westerwaldkreis;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-07232;Eifelkreis Bitburg-Prüm;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-07315;Mainz, kreisfreie Stadt;4;1;0;0;1;0;0;0;0
+19/12/2022;FN_kgs-07336;Kusel;2;1;0;0;0;1;0;0;0
+19/12/2022;FN_kgs-08115;Böblingen;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-08116;Esslingen;6;1;0;0;1;0;0;0;0
+19/12/2022;FN_kgs-08118;Ludwigsburg;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-08119;Rems-Murr-Kreis;1;1;0;0;1;1;1;0;0
+19/12/2022;FN_kgs-08126;Hohenlohekreis;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-08136;Ostalbkreis;2;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-08215;Karlsruhe;6;5;3;0;3;3;3;2;0
+19/12/2022;FN_kgs-08216;Rastatt;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-08222;Mannheim;3;2;1;0;0;2;0;0;0
+19/12/2022;FN_kgs-08226;Rhein-Neckar-Kreis;5;2;0;0;2;2;2;0;0
+19/12/2022;FN_kgs-08315;Breisgau-Hochschwarzwald;3;2;1;0;2;0;1;0;0
+19/12/2022;FN_kgs-08317;Ortenaukreis;1;1;0;0;1;1;1;0;0
+19/12/2022;FN_kgs-08415;Reutlingen;1;1;0;0;0;1;0;0;0
+19/12/2022;FN_kgs-08417;Zollernalbkreis;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-08425;Alb-Donau-Kreis;1;1;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-08426;Biberach;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-09179;Fürstenfeldbruck;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-09188;Starnberg;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-09189;Traunstein;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-09274;Landshut;1;1;1;0;1;0;0;0;0
+19/12/2022;FN_kgs-09375;Regensburg;1;1;1;0;1;1;1;0;0
+19/12/2022;FN_kgs-09376;Schwandorf;1;1;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-09472;Bayreuth;3;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-09473;Coburg;1;1;0;0;0;0;1;0;0
+19/12/2022;FN_kgs-09474;Forchheim;1;1;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-09564;Nürnberg, Stadt;9;2;1;0;1;1;0;0;0
+19/12/2022;FN_kgs-09571;Ansbach;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-09573;Fürth;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-09575;Neustadt a.d.Aisch-Bad Windsheim;2;2;0;0;1;0;1;1;0
+19/12/2022;FN_kgs-09576;Roth;1;1;0;0;1;0;1;0;0
+19/12/2022;FN_kgs-09676;Miltenberg;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-09677;Main-Spessart;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-09678;Schweinfurt;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-09771;Aichach-Friedberg;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-09776;Lindau (Bodensee);1;1;0;0;0;1;0;0;0
+19/12/2022;FN_kgs-09777;Ostallgäu;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-09778;Unterallgäu;3;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-09779;Donau-Ries;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-10044;Saarlouis;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-10045;Saarpfalz-Kreis;14;6;0;0;3;1;2;1;0
+19/12/2022;FN_kgs-10046;St. Wendel;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-11000;Berlin, Stadt;12;5;1;0;2;3;0;0;0
+19/12/2022;FN_kgs-12054;Potsdam, Stadt;2;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-12062;Elbe-Elster;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-12063;Havelland;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-12064;Märkisch-Oderland;1;1;0;0;0;1;0;0;0
+19/12/2022;FN_kgs-12065;Oberhavel;1;1;0;0;0;1;0;0;0
+19/12/2022;FN_kgs-12067;Oder-Spree;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-12070;Prignitz;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-12071;Spree-Neiße;1;1;0;0;0;1;0;0;0
+19/12/2022;FN_kgs-12072;Teltow-Fläming;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-13056;Müritz;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-13058;Nordwestmecklenburg;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-13059;Ostvorpommern;1;1;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-13060;Parchim;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-14521;Erzgebirgskreis;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-14524;Zwickau;1;1;1;0;1;1;1;0;0
+19/12/2022;FN_kgs-14625;Bautzen;2;1;1;0;1;1;1;0;0
+19/12/2022;FN_kgs-14626;Görlitz;1;1;1;0;1;1;1;1;0
+19/12/2022;FN_kgs-14628;Sächsische Schweiz-Osterzgebirge;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-14729;Leipzig;5;1;0;0;0;1;0;0;0
+19/12/2022;FN_kgs-14730;Nordsachsen;1;1;0;0;0;1;0;0;0
+19/12/2022;FN_kgs-15002;Halle (Saale), Stadt;3;1;0;0;1;0;1;0;0
+19/12/2022;FN_kgs-15003;Magdeburg, Landeshauptstadt;2;1;1;0;0;0;0;0;0
+19/12/2022;FN_kgs-15081;Altmarkkreis Salzwedel;2;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-15083;Börde;3;1;0;0;0;1;0;0;0
+19/12/2022;FN_kgs-15085;Harz;1;1;0;0;1;0;0;0;0
+19/12/2022;FN_kgs-15086;Jerichower Land;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-15087;Mansfeld-Südharz;1;1;0;0;0;1;1;0;0
+19/12/2022;FN_kgs-15089;Salzlandkreis;2;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-15091;Wittenberg;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-16051;Erfurt, Stadt;2;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-16055;Weimar, Stadt;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-16062;Nordhausen;1;1;0;0;0;1;0;0;0
+19/12/2022;FN_kgs-16063;Wartburgkreis;1;1;1;0;1;1;1;0;0
+19/12/2022;FN_kgs-16069;Hildburghausen;2;1;0;0;1;1;1;0;0
+19/12/2022;FN_kgs-16070;Ilm-Kreis;1;0;0;0;0;0;0;0;0
+19/12/2022;FN_kgs-16072;Sonneberg;1;1;0;0;1;1;1;0;0
+19/12/2022;FN_kgs-16077;Altenburger Land;2;1;0;0;1;1;1;0;0
+19/12/2022;MF-O2-Telefonica;;346;147;35;0;61;104;62;4;0
+19/12/2022;MF-Telekom;;125;55;16;0;17;45;14;3;0
+19/12/2022;MF-Vodafone;;154;75;22;0;15;56;19;5;0
